@@ -1,2 +1,28 @@
-# 618df668-barbershop-management-gamifica
-Built for barbershop professionals who are tired of missing messages, manually responding to routine requests at all hours.  Multi-server support with per-server configuration and permission levels. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Barbershop Management Gamification And Rewards System —
+# Barbershop Management Gamification and Rewards System Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E6oHeTt2k42hi33mcZq2G)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E6oHeTt2k42hi33mcZq2G)
+
